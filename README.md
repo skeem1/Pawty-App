@@ -1,6 +1,6 @@
 # Pawty is an app for your pet best friend available for iOS.
 
-Pawty incorporates a clicker for training and recall, a journal for logging day-to-day activities, and a scheduler for appointments like pet visits and play dates.
+Pawty incorporates a clicker for training and recall, a journal for logging day-to-day activities, and a scheduler for appointments like pet visits and play dates. Idea bloomed during COVID when many of my close friends became dog-parents and needed some simple tool to engage with their beloved pets. As a good dog-uncle, my idea was to create this! While I do not have the resources/time to continue this, I've open-sourced it now for free usage.
 
 It is available for free on the App Store here:
 https://apps.apple.com/us/app/pawty/id1539985388
