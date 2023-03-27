@@ -9,5 +9,4 @@ https://apps.apple.com/us/app/pawty/id1539985388
 
 
 
-![PAW](https://user-images.githubusercontent.com/124749297/228023554-b2978dfc-e660-47df-8728-467d67cca58e.png)
-
+![g80205](https://user-images.githubusercontent.com/124749297/228023714-cf0c4394-5c28-4628-9d65-b81f169ab6ac.png)
